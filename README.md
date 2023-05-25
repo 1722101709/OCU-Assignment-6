@@ -11,4 +11,4 @@
 
 ## Others Requirements
 - Run APACHE and MYSQL servers in XAMPP
-- Start the Server [click here to view the server files] (https://github.com/1722101709/OCU-Assignment-5)
+- Start the Server [click here to view the server files](https://github.com/1722101709/OCU-Assignment-5)
