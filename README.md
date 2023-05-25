@@ -6,9 +6,13 @@
 - [x] vue-router
 - [x] vite
 
-## How to Run the Project
-### npm run dev
 
 ## Others Requirements
 - Run APACHE and MYSQL servers in XAMPP
 - Start the Server [click here to view the server files](https://github.com/1722101709/OCU-Assignment-5)
+
+
+## How to Run the Project
+- go to the folder where index.html exists.
+- use **"npm run dev"** command to get the link.
+- click the link to see the project.
