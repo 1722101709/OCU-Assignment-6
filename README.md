@@ -14,5 +14,5 @@
 
 ## How to Run the Project
 - go to the folder where index.html exists.
-- use **"npm run dev"** command to get the link.
+- use **"npm run dev"** command to compile and reload the development.This will give the link to project site.
 - click the link to see the project.
